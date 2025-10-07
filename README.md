@@ -3,7 +3,7 @@ This is my config setting for NeoVim
 
 
 ## Structure
-
+```
 /Users/kyperion/.config/nvim
 ├── init.lua
 ├── lua
@@ -19,7 +19,7 @@ This is my config setting for NeoVim
 │       ├── telescope.lua
 │       └── treesitter.lua
 └── README.md
-
+```
 ## Flow
 1.`nvim starts`
 2. `init.lua` runs (sets leader, loadss core stuff)
